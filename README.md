@@ -1,3 +1,6 @@
+## Mirth Connect
+NextGen Connect is a cross-platform interface engine used in the healthcare industry that enables the management of information using bi-directional sending of many types of messages. The primary use of this interface engine is in healthcare.
+
 ### MirthConnectExamples
 Use cases implemented in Mirth Connect.
 
