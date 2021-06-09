@@ -27,9 +27,4 @@ https://www.youtube.com/watch?v=zIRdOlGIzuc
 
 Youtube channel: https://www.youtube.com/channel/UCM8tZSmzmxnZIN3rFyB5XPQ
 
-
-[
-  ![Support our work]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://paypal.me/mostafabrazi?locale.x=en_US)
+[![Support our work](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://paypal.me/mostafabrazi?locale.x=en_US)
